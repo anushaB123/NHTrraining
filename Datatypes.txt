@@ -1,0 +1,19 @@
+byte- 1 byte - 0 to 255
+ushort- 2 bytes - 0 to 65535
+uint- 4 bytes 
+ulong- 8 bytes
+----------------------------------------------
+sbyte- 1 byte
+short- 2 bytes
+int- 4 bytes
+long- 8 bytes
+---------------------------------------------
+float- 4 bytes
+double- 8 bytes
+decimal- 16 bytes
+---------------------------------------------
+bool- TRUE/FALSE
+---------------------------------------------
+char- 2 bytes
+string- depending on size of string
+---------------------------------------------

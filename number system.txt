@@ -1,0 +1,7 @@
+Decimal Numbers (0 to 9) - 10
+
+Binary Numbers (0 to 1) - 2
+
+Octal Numbers (0 to 7) - 8
+
+Hexa-Decimal Numbers (0 to 9, A to F) - 16
