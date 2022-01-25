@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "powernumConsole", "powernumConsole\powernumConsole.csproj", "{B254647A-BCF1-4952-97BD-657043014266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B254647A-BCF1-4952-97BD-657043014266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B254647A-BCF1-4952-97BD-657043014266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B254647A-BCF1-4952-97BD-657043014266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B254647A-BCF1-4952-97BD-657043014266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2389911-2681-4DE7-8E10-3498716369E9}
+	EndGlobalSection
+EndGlobal

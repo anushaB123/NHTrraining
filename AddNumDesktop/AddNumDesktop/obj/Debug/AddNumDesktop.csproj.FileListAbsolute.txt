@@ -1,0 +1,11 @@
+F:\c# programs\AddNumDesktop\AddNumDesktop\bin\Debug\AddNumDesktop.exe.config
+F:\c# programs\AddNumDesktop\AddNumDesktop\bin\Debug\AddNumDesktop.exe
+F:\c# programs\AddNumDesktop\AddNumDesktop\bin\Debug\AddNumDesktop.pdb
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.csproj.AssemblyReference.cache
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.Form1.resources
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.Properties.Resources.resources
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.csproj.GenerateResource.cache
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.csproj.CoreCompileInputs.cache
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.exe
+F:\c# programs\AddNumDesktop\AddNumDesktop\obj\Debug\AddNumDesktop.pdb

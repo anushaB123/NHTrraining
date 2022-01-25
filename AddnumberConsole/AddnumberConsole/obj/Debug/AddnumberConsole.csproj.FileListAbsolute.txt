@@ -1,0 +1,8 @@
+F:\c# programs\AddnumberConsole\AddnumberConsole\bin\Debug\AddnumberConsole.exe.config
+F:\c# programs\AddnumberConsole\AddnumberConsole\bin\Debug\AddnumberConsole.exe
+F:\c# programs\AddnumberConsole\AddnumberConsole\bin\Debug\AddnumberConsole.pdb
+F:\c# programs\AddnumberConsole\AddnumberConsole\obj\Debug\AddnumberConsole.csproj.AssemblyReference.cache
+F:\c# programs\AddnumberConsole\AddnumberConsole\obj\Debug\AddnumberConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\AddnumberConsole\AddnumberConsole\obj\Debug\AddnumberConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\AddnumberConsole\AddnumberConsole\obj\Debug\AddnumberConsole.exe
+F:\c# programs\AddnumberConsole\AddnumberConsole\obj\Debug\AddnumberConsole.pdb

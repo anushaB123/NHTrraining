@@ -1,0 +1,7 @@
+F:\c# programs\powernumConsole\powernumConsole\bin\Debug\powernumConsole.exe.config
+F:\c# programs\powernumConsole\powernumConsole\bin\Debug\powernumConsole.exe
+F:\c# programs\powernumConsole\powernumConsole\bin\Debug\powernumConsole.pdb
+F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.exe
+F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.pdb
