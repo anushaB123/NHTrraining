@@ -1,0 +1,8 @@
+F:\c# programs\ForloopHello\ForloopHello\bin\Debug\ForloopHello.exe.config
+F:\c# programs\ForloopHello\ForloopHello\bin\Debug\ForloopHello.exe
+F:\c# programs\ForloopHello\ForloopHello\bin\Debug\ForloopHello.pdb
+F:\c# programs\ForloopHello\ForloopHello\obj\Debug\ForloopHello.csproj.AssemblyReference.cache
+F:\c# programs\ForloopHello\ForloopHello\obj\Debug\ForloopHello.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\ForloopHello\ForloopHello\obj\Debug\ForloopHello.csproj.CoreCompileInputs.cache
+F:\c# programs\ForloopHello\ForloopHello\obj\Debug\ForloopHello.exe
+F:\c# programs\ForloopHello\ForloopHello\obj\Debug\ForloopHello.pdb

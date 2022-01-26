@@ -5,3 +5,4 @@ F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.csproj.
 F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.csproj.CoreCompileInputs.cache
 F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.exe
 F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.pdb
+F:\c# programs\powernumConsole\powernumConsole\obj\Debug\powernumConsole.csproj.AssemblyReference.cache

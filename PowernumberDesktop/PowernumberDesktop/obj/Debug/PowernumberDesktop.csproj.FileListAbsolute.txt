@@ -1,0 +1,10 @@
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\bin\Debug\PowernumberDesktop.exe.config
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\bin\Debug\PowernumberDesktop.exe
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\bin\Debug\PowernumberDesktop.pdb
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.Form1.resources
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.Properties.Resources.resources
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.csproj.GenerateResource.cache
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.csproj.CoreCompileInputs.cache
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.exe
+F:\c# programs\PowernumberDesktop\PowernumberDesktop\obj\Debug\PowernumberDesktop.pdb

@@ -1,0 +1,7 @@
+F:\c# programs\ForloopConsole\ForloopConsole\bin\Debug\ForloopConsole.exe.config
+F:\c# programs\ForloopConsole\ForloopConsole\bin\Debug\ForloopConsole.exe
+F:\c# programs\ForloopConsole\ForloopConsole\bin\Debug\ForloopConsole.pdb
+F:\c# programs\ForloopConsole\ForloopConsole\obj\Debug\ForloopConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\ForloopConsole\ForloopConsole\obj\Debug\ForloopConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\ForloopConsole\ForloopConsole\obj\Debug\ForloopConsole.exe
+F:\c# programs\ForloopConsole\ForloopConsole\obj\Debug\ForloopConsole.pdb
