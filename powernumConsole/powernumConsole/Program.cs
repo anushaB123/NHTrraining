@@ -10,15 +10,22 @@ namespace powernumConsole
     {
         static void Main(string[] args)
         {
+            //variable declaration
             int pow = 1,fn,sn;
+
+            //read the data from user
             Console.WriteLine("Enter first number:");
             fn = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter second number:");
             sn = Convert.ToInt32(Console.ReadLine());
+
+            //logic
             for (int i=1;i<=sn;i++)
             {
                 pow = pow * fn;
             }
+
+            //print output
             Console.WriteLine("p="+pow);
             Console.ReadLine();
         }

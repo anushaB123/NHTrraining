@@ -1,0 +1,3 @@
+F:\c# programs\WhileloopConsole\WhileloopConsole\obj\Debug\WhileloopConsole.csproj.AssemblyReference.cache
+F:\c# programs\WhileloopConsole\WhileloopConsole\obj\Debug\WhileloopConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\WhileloopConsole\WhileloopConsole\obj\Debug\WhileloopConsole.csproj.CoreCompileInputs.cache

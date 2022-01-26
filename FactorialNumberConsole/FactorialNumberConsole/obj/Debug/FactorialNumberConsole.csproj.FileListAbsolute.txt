@@ -1,0 +1,8 @@
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\bin\Debug\FactorialNumberConsole.exe.config
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\bin\Debug\FactorialNumberConsole.exe
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\bin\Debug\FactorialNumberConsole.pdb
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\obj\Debug\FactorialNumberConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\obj\Debug\FactorialNumberConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\obj\Debug\FactorialNumberConsole.exe
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\obj\Debug\FactorialNumberConsole.pdb
+F:\c# programs\FactorialNumberConsole\FactorialNumberConsole\obj\Debug\FactorialNumberConsole.csproj.AssemblyReference.cache

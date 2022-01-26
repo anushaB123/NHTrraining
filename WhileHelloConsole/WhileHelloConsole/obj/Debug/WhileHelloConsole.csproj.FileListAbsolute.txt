@@ -1,0 +1,8 @@
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\bin\Debug\WhileHelloConsole.exe.config
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\bin\Debug\WhileHelloConsole.exe
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\bin\Debug\WhileHelloConsole.pdb
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\obj\Debug\WhileHelloConsole.csproj.AssemblyReference.cache
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\obj\Debug\WhileHelloConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\obj\Debug\WhileHelloConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\obj\Debug\WhileHelloConsole.exe
+F:\c# programs\WhileHelloConsole\WhileHelloConsole\obj\Debug\WhileHelloConsole.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93bf6721-7db2-4941-970c-820c12091805": {
+      "ProjectGuid": "93bf6721-7db2-4941-970c-820c12091805",
+      "DisplayName": "MultiplicationTableConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

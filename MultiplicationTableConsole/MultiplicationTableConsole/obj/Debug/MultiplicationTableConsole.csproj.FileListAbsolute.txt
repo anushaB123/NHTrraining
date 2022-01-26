@@ -1,0 +1,8 @@
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\bin\Debug\MultiplicationTableConsole.exe.config
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\bin\Debug\MultiplicationTableConsole.exe
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\bin\Debug\MultiplicationTableConsole.pdb
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\obj\Debug\MultiplicationTableConsole.csproj.AssemblyReference.cache
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\obj\Debug\MultiplicationTableConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\obj\Debug\MultiplicationTableConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\obj\Debug\MultiplicationTableConsole.exe
+F:\c# programs\MultiplicationTableConsole\MultiplicationTableConsole\obj\Debug\MultiplicationTableConsole.pdb

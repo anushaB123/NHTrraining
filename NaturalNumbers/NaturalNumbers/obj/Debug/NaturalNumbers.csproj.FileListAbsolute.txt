@@ -1,0 +1,7 @@
+F:\c# programs\NaturalNumbers\NaturalNumbers\bin\Debug\NaturalNumbers.exe.config
+F:\c# programs\NaturalNumbers\NaturalNumbers\bin\Debug\NaturalNumbers.exe
+F:\c# programs\NaturalNumbers\NaturalNumbers\bin\Debug\NaturalNumbers.pdb
+F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.CoreCompileInputs.cache
+F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.exe
+F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.pdb

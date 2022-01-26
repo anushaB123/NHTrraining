@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09817812-e45d-41ec-a62b-b977e953aab0": {
+      "ProjectGuid": "09817812-e45d-41ec-a62b-b977e953aab0",
+      "DisplayName": "FactorialNumberConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
