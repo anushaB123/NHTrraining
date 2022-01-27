@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d0b7a06-d301-49ab-bad1-26b6863ce0be": {
+      "ProjectGuid": "6d0b7a06-d301-49ab-bad1-26b6863ce0be",
+      "DisplayName": "FactorialUsingRecursion",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

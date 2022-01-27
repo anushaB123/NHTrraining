@@ -5,3 +5,4 @@ F:\c# programs\Factorsconsole\Factorsconsole\obj\Debug\Factorsconsole.csproj.Sug
 F:\c# programs\Factorsconsole\Factorsconsole\obj\Debug\Factorsconsole.csproj.CoreCompileInputs.cache
 F:\c# programs\Factorsconsole\Factorsconsole\obj\Debug\Factorsconsole.exe
 F:\c# programs\Factorsconsole\Factorsconsole\obj\Debug\Factorsconsole.pdb
+F:\c# programs\Factorsconsole\Factorsconsole\obj\Debug\Factorsconsole.csproj.AssemblyReference.cache
