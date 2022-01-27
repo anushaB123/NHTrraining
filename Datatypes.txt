@@ -1,12 +1,12 @@
 byte- 1 byte - 0 to 255
 ushort- 2 bytes - 0 to 65535
-uint- 4 bytes 
-ulong- 8 bytes
+uint- 4 bytes - 0 to 4294967295
+ulong- 8 bytes - 0 to 18446744073709551615
 ----------------------------------------------
-sbyte- 1 byte
-short- 2 bytes
-int- 4 bytes
-long- 8 bytes
+sbyte- 1 byte - -128 to 127
+short- 2 bytes - -32768 to 32767
+int- 4 bytes - -2147483648 to 2147483647
+long- 8 bytes - -9223372036854775808 to 922337203685775807
 ---------------------------------------------
 float- 4 bytes
 double- 8 bytes

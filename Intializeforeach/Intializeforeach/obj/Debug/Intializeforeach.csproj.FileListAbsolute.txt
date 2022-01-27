@@ -1,0 +1,7 @@
+F:\c# programs\Intializeforeach\Intializeforeach\bin\Debug\Intializeforeach.exe.config
+F:\c# programs\Intializeforeach\Intializeforeach\bin\Debug\Intializeforeach.exe
+F:\c# programs\Intializeforeach\Intializeforeach\bin\Debug\Intializeforeach.pdb
+F:\c# programs\Intializeforeach\Intializeforeach\obj\Debug\Intializeforeach.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Intializeforeach\Intializeforeach\obj\Debug\Intializeforeach.csproj.CoreCompileInputs.cache
+F:\c# programs\Intializeforeach\Intializeforeach\obj\Debug\Intializeforeach.exe
+F:\c# programs\Intializeforeach\Intializeforeach\obj\Debug\Intializeforeach.pdb

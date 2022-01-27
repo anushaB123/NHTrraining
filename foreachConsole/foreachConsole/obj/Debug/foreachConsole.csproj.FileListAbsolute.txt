@@ -1,0 +1,8 @@
+F:\c# programs\foreachConsole\foreachConsole\bin\Debug\foreachConsole.exe.config
+F:\c# programs\foreachConsole\foreachConsole\bin\Debug\foreachConsole.exe
+F:\c# programs\foreachConsole\foreachConsole\bin\Debug\foreachConsole.pdb
+F:\c# programs\foreachConsole\foreachConsole\obj\Debug\foreachConsole.csproj.AssemblyReference.cache
+F:\c# programs\foreachConsole\foreachConsole\obj\Debug\foreachConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\foreachConsole\foreachConsole\obj\Debug\foreachConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\foreachConsole\foreachConsole\obj\Debug\foreachConsole.exe
+F:\c# programs\foreachConsole\foreachConsole\obj\Debug\foreachConsole.pdb

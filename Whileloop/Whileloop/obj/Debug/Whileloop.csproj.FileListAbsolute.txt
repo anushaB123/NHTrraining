@@ -1,0 +1,8 @@
+F:\c# programs\Whileloop\Whileloop\bin\Debug\Whileloop.exe.config
+F:\c# programs\Whileloop\Whileloop\bin\Debug\Whileloop.exe
+F:\c# programs\Whileloop\Whileloop\bin\Debug\Whileloop.pdb
+F:\c# programs\Whileloop\Whileloop\obj\Debug\Whileloop.csproj.AssemblyReference.cache
+F:\c# programs\Whileloop\Whileloop\obj\Debug\Whileloop.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Whileloop\Whileloop\obj\Debug\Whileloop.csproj.CoreCompileInputs.cache
+F:\c# programs\Whileloop\Whileloop\obj\Debug\Whileloop.exe
+F:\c# programs\Whileloop\Whileloop\obj\Debug\Whileloop.pdb

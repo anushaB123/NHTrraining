@@ -1,0 +1,7 @@
+F:\c# programs\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+F:\c# programs\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+F:\c# programs\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+F:\c# programs\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+F:\c# programs\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+F:\c# programs\DoWhile\DoWhile\obj\Debug\DoWhile.pdb

@@ -1,0 +1,9 @@
+Arrays are collection of similar data types.
+
+Array index starts from 0.
+
+Array variable size = Array length x data type size.
+
+Array size cannot be increased dynamically.
+
+Arrays required sequential memory location.

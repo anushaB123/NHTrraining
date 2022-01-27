@@ -5,3 +5,4 @@ F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.Sug
 F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.CoreCompileInputs.cache
 F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.exe
 F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.pdb
+F:\c# programs\NaturalNumbers\NaturalNumbers\obj\Debug\NaturalNumbers.csproj.AssemblyReference.cache

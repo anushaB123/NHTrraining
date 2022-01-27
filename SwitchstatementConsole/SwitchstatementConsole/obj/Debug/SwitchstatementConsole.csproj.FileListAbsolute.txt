@@ -1,0 +1,8 @@
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\bin\Debug\SwitchstatementConsole.exe.config
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\bin\Debug\SwitchstatementConsole.exe
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\bin\Debug\SwitchstatementConsole.pdb
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\obj\Debug\SwitchstatementConsole.csproj.AssemblyReference.cache
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\obj\Debug\SwitchstatementConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\obj\Debug\SwitchstatementConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\obj\Debug\SwitchstatementConsole.exe
+F:\c# programs\SwitchstatementConsole\SwitchstatementConsole\obj\Debug\SwitchstatementConsole.pdb

@@ -1,0 +1,8 @@
+F:\c# programs\ArrayConsole\ArrayConsole\bin\Debug\ArrayConsole.exe.config
+F:\c# programs\ArrayConsole\ArrayConsole\bin\Debug\ArrayConsole.exe
+F:\c# programs\ArrayConsole\ArrayConsole\bin\Debug\ArrayConsole.pdb
+F:\c# programs\ArrayConsole\ArrayConsole\obj\Debug\ArrayConsole.csproj.AssemblyReference.cache
+F:\c# programs\ArrayConsole\ArrayConsole\obj\Debug\ArrayConsole.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\ArrayConsole\ArrayConsole\obj\Debug\ArrayConsole.csproj.CoreCompileInputs.cache
+F:\c# programs\ArrayConsole\ArrayConsole\obj\Debug\ArrayConsole.exe
+F:\c# programs\ArrayConsole\ArrayConsole\obj\Debug\ArrayConsole.pdb
