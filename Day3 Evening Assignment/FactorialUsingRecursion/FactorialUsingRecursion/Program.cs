@@ -4,16 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactorialusingFunctions
+namespace FactorialUsingRecursion
 {
     internal class Program
     {
-        //purpose to read a number and print its factorial
-       
+        //read a number and print factorial[using recursion]
+
         static void Main(string[] args)
         {
+
             //variable declaration
             int fn, sn;
+            
 
 
             //read the data from user
@@ -26,29 +28,20 @@ namespace FactorialusingFunctions
             int fact1 = Factorial(sn);
 
             //print the output
-            Console.WriteLine("Factorial of {0} is {1}", fn, fact);
+            Console.WriteLine("Factorial of {0} is {1}", fn,fact);
             Console.WriteLine("Factorial of {0} is {1}", sn, fact1);
             Console.ReadLine();
-
-            
-
-            
         }
-        private static int Factorial(int input)
-        {
-            int fact3 = 1;
-            for (int i = 0; i < input; i++)
+                private static int Factorial(int input)
             {
-                fact3 = fact3 * i;
-                return fact3;
+                
+                if (input == 0)
+                        return 1;
+                    else
+                        return input * Factorial(input - 1);
+                
             }
-        }
 
-
+        
     }
 }
-
-
-
-   
-

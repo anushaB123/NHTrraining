@@ -1,0 +1,6 @@
+F:\c# programs\Day3 Evening Assignment\FactorialusingFunctions\FactorialusingFunctions\obj\Debug\FactorialusingFunctions.csproj.AssemblyReference.cache
+F:\c# programs\Day3 Evening Assignment\FactorialusingFunctions\FactorialusingFunctions\obj\Debug\FactorialusingFunctions.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day3 Evening Assignment\FactorialusingFunctions\FactorialusingFunctions\obj\Debug\FactorialusingFunctions.csproj.CoreCompileInputs.cache
+F:\c# programs\FactorialusingFunctions\FactorialusingFunctions\obj\Debug\FactorialusingFunctions.csproj.AssemblyReference.cache
+F:\c# programs\FactorialusingFunctions\FactorialusingFunctions\obj\Debug\FactorialusingFunctions.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\FactorialusingFunctions\FactorialusingFunctions\obj\Debug\FactorialusingFunctions.csproj.CoreCompileInputs.cache

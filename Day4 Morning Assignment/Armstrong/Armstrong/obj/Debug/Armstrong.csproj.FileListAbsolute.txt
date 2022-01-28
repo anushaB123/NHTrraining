@@ -1,0 +1,7 @@
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\obj\Debug\Armstrong.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\obj\Debug\Armstrong.csproj.CoreCompileInputs.cache
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\bin\Debug\Armstrong.exe.config
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\obj\Debug\Armstrong.exe
+F:\c# programs\Day4 Morning Assignment\Armstrong\Armstrong\obj\Debug\Armstrong.pdb
