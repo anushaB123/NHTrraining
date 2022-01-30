@@ -1,0 +1,7 @@
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.pdb
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.exe
+F:\c# programs\Day4 Morning Assignment\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.pdb

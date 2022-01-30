@@ -1,0 +1,7 @@
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\bin\Debug\SwapNumber.exe.config
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\bin\Debug\SwapNumber.exe
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\bin\Debug\SwapNumber.pdb
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\obj\Debug\SwapNumber.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\obj\Debug\SwapNumber.csproj.CoreCompileInputs.cache
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\obj\Debug\SwapNumber.exe
+F:\c# programs\Day4 Morning Assignment\SwapNumber\SwapNumber\obj\Debug\SwapNumber.pdb

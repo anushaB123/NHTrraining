@@ -1,0 +1,7 @@
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+F:\c# programs\Day4 Morning Assignment\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "709709a2-3360-4348-9e1f-ee71188f7885": {
+      "ProjectGuid": "709709a2-3360-4348-9e1f-ee71188f7885",
+      "DisplayName": "PrintPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\bin\Debug\ReverseOfGivenNumber.exe.config
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\bin\Debug\ReverseOfGivenNumber.exe
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\bin\Debug\ReverseOfGivenNumber.pdb
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\obj\Debug\ReverseOfGivenNumber.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\obj\Debug\ReverseOfGivenNumber.csproj.CoreCompileInputs.cache
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\obj\Debug\ReverseOfGivenNumber.exe
+F:\c# programs\Day4 Morning Assignment\ReverseOfGivenNumber\ReverseOfGivenNumber\obj\Debug\ReverseOfGivenNumber.pdb
