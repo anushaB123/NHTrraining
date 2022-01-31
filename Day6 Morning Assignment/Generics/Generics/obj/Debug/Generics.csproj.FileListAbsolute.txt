@@ -1,0 +1,7 @@
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\bin\Debug\Generics.exe.config
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\bin\Debug\Generics.exe
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\bin\Debug\Generics.pdb
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\obj\Debug\Generics.exe
+F:\c# programs\Day6 Morning Assignment\Generics\Generics\obj\Debug\Generics.pdb
