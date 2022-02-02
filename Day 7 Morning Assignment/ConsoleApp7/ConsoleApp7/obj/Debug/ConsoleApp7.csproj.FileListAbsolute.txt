@@ -1,0 +1,8 @@
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+F:\c# programs\Day 7 Morning Assignment\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
