@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 namespace ConsoleApp4
 {
     class Seller
-    {
-        public int id;
-        public string name; 
-        public string emailid;
+    { 
+  
+        private int id;
+        private string name; 
+        private string emailid;
         public void ReadSeller()
         {
             Console.WriteLine("Enter id:");

@@ -8,9 +8,9 @@ namespace ConsoleApp1
 {
     class Employee
     {
-        public int id;
-        public string name; 
-        public int salary;
+        private int id;
+        private string name; 
+        private int salary;
         public void ReadEmployee()
         {
             Console.WriteLine("Enter id:");

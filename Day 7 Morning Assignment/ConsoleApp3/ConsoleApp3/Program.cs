@@ -8,9 +8,9 @@ namespace ConsoleApp3
 {
     class Product
     {
-        public int id;
-        public string name;
-        public string brand;
+        private int id;
+        private string name;
+        private string brand;
         
         public void ReadProduct()
         {

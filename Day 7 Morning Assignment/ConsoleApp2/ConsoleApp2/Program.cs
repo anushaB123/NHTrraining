@@ -8,9 +8,9 @@ namespace ConsoleApp2
 {
     class Customer
     {
-        public int id;
-        public string name;
-        public int age;
+        private int id;
+        private string name;
+        private int age;
         public void ReadCustomer()
         {
 

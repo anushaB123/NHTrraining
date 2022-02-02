@@ -8,9 +8,9 @@ namespace ConsoleApp5
 {
     class Department
     {
-        public int id;
-        public string name;
-        public int staff;  
+        private int id;
+        private string name;
+        private int staff;  
      
         public void ReadDepartment()
         {
