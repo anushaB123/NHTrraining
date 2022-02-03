@@ -1,0 +1,8 @@
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\bin\Debug\Linearsearch.exe.config
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\bin\Debug\Linearsearch.exe
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\bin\Debug\Linearsearch.pdb
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\obj\Debug\Linearsearch.csproj.AssemblyReference.cache
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\obj\Debug\Linearsearch.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\obj\Debug\Linearsearch.csproj.CoreCompileInputs.cache
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\obj\Debug\Linearsearch.exe
+F:\c# programs\Day 7 Morning Assignment\Linearsearch\Linearsearch\obj\Debug\Linearsearch.pdb

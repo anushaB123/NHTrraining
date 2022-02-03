@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a594a1a-bc8a-465e-8de4-59345dd7ddce": {
+      "ProjectGuid": "2a594a1a-bc8a-465e-8de4-59345dd7ddce",
+      "DisplayName": "Bubblesort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

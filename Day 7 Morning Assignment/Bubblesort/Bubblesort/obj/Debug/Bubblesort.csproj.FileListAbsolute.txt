@@ -1,0 +1,8 @@
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.AssemblyReference.cache
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+F:\c# programs\Day 7 Morning Assignment\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
