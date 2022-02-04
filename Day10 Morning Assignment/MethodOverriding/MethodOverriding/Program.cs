@@ -34,6 +34,10 @@ namespace MethodOverriding
     {
         static void Main(string[] args)
         {
+            TeluguMessage tm = new TeluguMessage();
+            tm.PrintGM();
+            tm.PrintHi();
+            tm.PrintHello();
             Console.ReadLine();
         }
     }
