@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5
 { 
-    class Seller
+    class Bank
     {
-        public int id;
-        public string name;
-        public string emailid;
+        public int accno;
+        public string accname;
+        public int accbalance;
     }
 
 
@@ -18,34 +18,38 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            List<Seller> seller = new List<Seller>()
+            List<Bank> bank = new List<Bank>()
             {
-                new Seller(){id=1,name="Satish",emailid="satish@gmail.com"},
-                new Seller(){id=2,name="Pardhu",emailid="pardhu@gmail.com"},
-                new Seller(){id=3,name="Teju",emailid ="teju@gmail.com"},
-                new Seller(){id=4,name="deepu",emailid="deepu@gmail.com"}
+                new Bank(){accno=1011,accname="Satish",accbalance=500},
+                new Bank(){accno=1022,accname="Pardhu",accbalance=900},
+                new Bank(){accno=1253,accname="Teju",accbalance=600},
+                new Bank(){accno=4563,accname="deepu",accbalance=550}
             };
 
             //for loop
-            for(int i=0;i<=seller.Count;i++)
+            for(int i=1;i< bank.Count;i++)
             {
-                Console.WriteLine(seller[i]);
+                if (bank[i].accbalance > 500)
+
+                    Console.WriteLine($"Accno={bank[i].accno},Accname={bank[i].accname},Accbalance={bank[i].accbalance}");
+               
             }
 
             //foreach loop
-            foreach(var s in seller)
+            foreach(var s in bank)
             {
-                Console.WriteLine(s);
+                if(s.accbalance>500)
+                Console.WriteLine($"Accno=s.accno,Accname=s.accname,Accbalance=s.accbalance");
             }
 
             //Lambda Expression
-            seller.ForEach(s => Console.WriteLine(s));
+            bank.Where(s=>s.accbalance>500).ToList().ForEach(s => Console.WriteLine($"s.accno,s.accname,s.accbalance"));
 
             //LINQ Query
-            var result=from s in seller
-                       where s.emailid=="deepu@gmail.com"
+            var result=from s in bank
+                       where s.accbalance>500
                        select s;
-            result.ToList().ForEach(s => Console.WriteLine(s));
+            result.ToList().ForEach(s => Console.WriteLine($"s.accno,s.accname,s.accbalance"));
             Console.ReadLine(); 
         }
     }
