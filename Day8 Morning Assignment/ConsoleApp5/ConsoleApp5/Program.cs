@@ -31,25 +31,24 @@ namespace ConsoleApp5
             {
                 if (bank[i].accbalance > 500)
 
-                    Console.WriteLine($"Accno={bank[i].accno},Accname={bank[i].accname},Accbalance={bank[i].accbalance}");
-               
+                    Console.WriteLine(bank[i].accname);
             }
 
             //foreach loop
             foreach(var s in bank)
             {
                 if(s.accbalance>500)
-                Console.WriteLine($"Accno=s.accno,Accname=s.accname,Accbalance=s.accbalance");
+                Console.WriteLine(s.accname);
             }
 
             //Lambda Expression
-            bank.Where(s=>s.accbalance>500).ToList().ForEach(s => Console.WriteLine($"s.accno,s.accname,s.accbalance"));
+            bank.Where(s=>s.accbalance>500).ToList().ForEach(s => Console.WriteLine(s.accname));
 
             //LINQ Query
             var result=from s in bank
                        where s.accbalance>500
                        select s;
-            result.ToList().ForEach(s => Console.WriteLine($"s.accno,s.accname,s.accbalance"));
+            result.ToList().ForEach(s => Console.WriteLine(s.accname));
             Console.ReadLine(); 
         }
     }

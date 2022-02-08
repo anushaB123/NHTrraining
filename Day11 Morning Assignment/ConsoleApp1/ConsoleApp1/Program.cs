@@ -12,7 +12,8 @@ namespace ConsoleApp1
         int CalculateArea();
     }
     class Circle : IShape {
-        int radius;
+
+        private int radius;
         public void ReadRadius()
         {
             Console.WriteLine("Enter radius:");
@@ -28,7 +29,7 @@ namespace ConsoleApp1
             return 2*22*radius/7;
         }
     }
-    class Suare : IShape
+    class Square : IShape
     {
 
         private int side;
@@ -73,32 +74,39 @@ namespace ConsoleApp1
     }
     class Triangle : IShape
     {
-        public double base;
-        private int side;
-        private double height;
-        public void CalculateBase()
+        private int side1;
+        private int side2;
+        private int side3;
+        private int area;
+        private int semiperimeter;
+        
+        public void ReadSide1()
         {
-            Console.WriteLine("Enter base:");
-            base= Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter side1:");
+            side1 = Convert.ToInt32(Console.ReadLine());
         }
-        public void CalculateHeight()
+        public void ReadSide2()
         {
-            Console.WriteLine("Enter height:");
-            height = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter side2:");
+            side2 = Convert.ToInt32(Console.ReadLine());
         }
-        public void CalculateSide()
+        public void ReadSide3()
         {
-            Console.WriteLine("Enter side:");
-            side = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter side3:");
+            side3= Convert.ToInt32(Console.ReadLine());
         }
         public int CalculateArea()
         {
-            return (height * base) / 2;
+            double d;
+            d = semiperimeter * (semiperimeter - side1) * (semiperimeter - side2) * (semiperimeter - side3);
+
+            int Area =(int) Math.Sqrt(d);
+            return Area;
         }
 
         public int CalculatePerimeter()
         {
-            return side * base * side;
+            return side1 + side2 + side3;
         }
     }
 
@@ -106,6 +114,32 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Circle c = new Circle();
+            c.ReadRadius();
+            Console.WriteLine(c.CalculateArea());
+            Console.WriteLine(c.CalculatePerimeter());
+
+            Square s = new Square();
+            s.ReadSide();
+            Console.WriteLine(s.CalculateArea());
+            Console.WriteLine(s.CalculatePerimeter());
+
+            Rectangle r = new Rectangle();
+            r.ReadWidth();
+            r.ReadLength();
+            Console.WriteLine(r.CalculateArea());
+            Console.WriteLine(c.CalculatePerimeter());
+
+            Triangle t = new Triangle();
+            t.ReadSide1();
+            t.ReadSide2();
+            t.ReadSide3();
+            Console.WriteLine(c.CalculateArea());
+            Console.WriteLine(c.CalculatePerimeter());
+            Console.ReadLine();
+
         }
+        
+
     }
 }
