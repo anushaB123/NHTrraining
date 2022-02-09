@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,10 +9,19 @@ namespace ConsoleApp3
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            int n;
-            Console.WriteLine(n);
+            int a, b;
+            Console.WriteLine("enter first number:");
+            a=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter second number:");
+            b=Convert.ToInt32(Console.ReadLine());
+            int c = a + b;
+            Console.WriteLine(c);
+            Console.ReadLine();
         }
+
+
     }
 }
