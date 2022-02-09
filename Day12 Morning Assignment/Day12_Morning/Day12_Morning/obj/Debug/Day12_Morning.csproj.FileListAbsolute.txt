@@ -1,0 +1,7 @@
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\bin\Debug\Day12_Morning.exe.config
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\bin\Debug\Day12_Morning.exe
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\bin\Debug\Day12_Morning.pdb
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\obj\Debug\Day12_Morning.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\obj\Debug\Day12_Morning.csproj.CoreCompileInputs.cache
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\obj\Debug\Day12_Morning.exe
+F:\c# programs\Day12 Morning Assignment\Day12_Morning\Day12_Morning\obj\Debug\Day12_Morning.pdb
