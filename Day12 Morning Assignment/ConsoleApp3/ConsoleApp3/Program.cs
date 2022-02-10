@@ -12,13 +12,10 @@ namespace ConsoleApp3
 
         static void Main(string[] args)
         {
-            int a, b;
-            Console.WriteLine("enter first number:");
-            a=Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter second number:");
-            b=Convert.ToInt32(Console.ReadLine());
-            int c = a + b;
-            Console.WriteLine(c);
+            int n = 5;
+           
+           for( int i=5; i < 3 ; i++)
+                Console.WriteLine(i);
             Console.ReadLine();
         }
 
