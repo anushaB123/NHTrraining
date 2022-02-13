@@ -1,0 +1,7 @@
+Hi this is my first File Operations using C# code
+
+Writing Data using StringWriter, by using WriteLine Method.
+This Line is by Write MethodThis is Second Line using Write Method
+This
+is Extra
+Text
