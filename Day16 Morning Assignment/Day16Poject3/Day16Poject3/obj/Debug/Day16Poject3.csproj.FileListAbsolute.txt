@@ -1,0 +1,7 @@
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\bin\Debug\Day16Poject3.exe.config
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\bin\Debug\Day16Poject3.exe
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\bin\Debug\Day16Poject3.pdb
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\obj\Debug\Day16Poject3.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\obj\Debug\Day16Poject3.csproj.CoreCompileInputs.cache
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\obj\Debug\Day16Poject3.exe
+F:\c# programs\Day16 Morning Assignment\Day16Poject3\Day16Poject3\obj\Debug\Day16Poject3.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ff76a9c-de11-413e-a3a3-73a36995be27": {
+      "ProjectGuid": "8ff76a9c-de11-413e-a3a3-73a36995be27",
+      "DisplayName": "AnushLibrary",
+      "ColorIndex": 0
+    },
+    "d466ece7-69cb-46a5-913b-d0fca002712a": {
+      "ProjectGuid": "d466ece7-69cb-46a5-913b-d0fca002712a",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "5f5fab94-33f5-4b76-bae0-3c410c38eb13": {
+      "ProjectGuid": "5f5fab94-33f5-4b76-bae0-3c410c38eb13",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    },
+    "75f74db3-1409-47df-bf11-115ad561883c": {
+      "ProjectGuid": "75f74db3-1409-47df-bf11-115ad561883c",
+      "DisplayName": "MyWindowsApp",
+      "ColorIndex": 3
+    },
+    "5f57bec7-72ba-4d2a-a075-a5cd4e135952": {
+      "ProjectGuid": "5f57bec7-72ba-4d2a-a075-a5cd4e135952",
+      "DisplayName": "MyWindowsApp1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
