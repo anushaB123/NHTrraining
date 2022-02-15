@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac7642c4-8a26-4186-a3d6-20ec00261237": {
+      "ProjectGuid": "ac7642c4-8a26-4186-a3d6-20ec00261237",
+      "DisplayName": "AnuLibrary",
+      "ColorIndex": 0
+    },
+    "e6b53d26-0a60-4732-b407-cf3133be63d9": {
+      "ProjectGuid": "e6b53d26-0a60-4732-b407-cf3133be63d9",
+      "DisplayName": "PublicLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
