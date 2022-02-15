@@ -25,5 +25,10 @@ namespace MyWindowsApp1
             int factorial = Mathematics.Factorial(input);
             textBox2.Text = factorial.ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -13,8 +13,8 @@ namespace ClientApp
         static void Main(string[] args)
         {
             Console.WriteLine(Mathematics.Factorial(5));
-            Console.WriteLine(FinalVelocity(5,5,5));
-            Console.ReadLine();
+            Console.WriteLine(Physics.FinalVelocity(5, 5, 5));
+             Console.ReadLine();
         }
     }
 }

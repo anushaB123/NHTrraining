@@ -13,3 +13,4 @@ F:\c# programs\Day16 Morning Assignment\MyProject\MyWindowsApp1\obj\Debug\MyWind
 F:\c# programs\Day16 Morning Assignment\MyProject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.CopyComplete
 F:\c# programs\Day16 Morning Assignment\MyProject\MyWindowsApp1\obj\Debug\MyWindowsApp1.exe
 F:\c# programs\Day16 Morning Assignment\MyProject\MyWindowsApp1\obj\Debug\MyWindowsApp1.pdb
+F:\c# programs\Day16 Morning Assignment\MyProject\MyWindowsApp1\obj\Debug\MyWindowsApp1.csproj.AssemblyReference.cache
