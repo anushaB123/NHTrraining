@@ -11,7 +11,8 @@ namespace Day18Project1
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter  Any  Number  :  "); int n = int.Parse(Console.ReadLine());
+            Console.Write("Enter  Any  Number  :  ");
+            int n = int.Parse(Console.ReadLine());
             Console.WriteLine("\n\n  Factorial  Result  is  :  {0}", Algebra.Factorial(n));
 
             Console.ReadLine();
