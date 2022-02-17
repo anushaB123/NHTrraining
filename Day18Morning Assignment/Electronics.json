@@ -1,0 +1,52 @@
+[
+   {
+      "ID": "1",
+      "Name": "Dell Inspiron 15",
+      "Price": "86000"
+   },
+   {
+      "ID": "2",
+      "Name": "Lenovo ThinkPad",
+      "Price": "48000"
+   },
+   {
+      "ID": "3",
+      "Name": "Lenovo IdeaPad",
+      "Price": "38200"
+   },
+   {
+      "ID": "4",
+      "Name": "Lenovo Yoga 7Gen",
+      "Price": "98900"
+   },
+   {
+      "ID": "5",
+      "Name": "Hp Notebook Pc",
+      "Price": "40000"
+   },
+   {
+      "ID": "6",
+      "Name": "Apple Mac Book Air",
+      "Price": "85000"
+   },
+   {
+      "ID": "7",
+      "Name": "Acer Aspire 7",
+      "Price": "52900"
+   },
+   {
+      "ID": "8",
+      "Name": "Realme Book Slim",
+      "Price": "44000"
+   },
+   {
+      "ID": "9",
+      "Name": "ASUS asus Vivo Book 15",
+      "Price": "29800"
+   },
+   {
+      "ID": "10",
+      "Name": "HP Chrome Book 11a",
+      "Price": "24000"
+   }
+]

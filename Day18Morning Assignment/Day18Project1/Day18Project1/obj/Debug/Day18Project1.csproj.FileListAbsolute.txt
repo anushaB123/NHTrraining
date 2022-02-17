@@ -1,0 +1,11 @@
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe.config
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\bin\Debug\Day18Project1.pdb
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\bin\Debug\AnushaLibrary.dll
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\bin\Debug\AnushaLibrary.pdb
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.AssemblyReference.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CoreCompileInputs.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CopyComplete
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.exe
+F:\c# programs\Day18Morning Assignment\Day18Project1\Day18Project1\obj\Debug\Day18Project1.pdb

@@ -1,0 +1,53 @@
+<Electronics>
+  <Laptop>
+     <ID>1</ID>
+     <Name>Dell Inspiron 15</Name>
+     <Price>86000</Price>
+  </Laptop>  
+  <Laptop>
+     <ID>2</ID>
+     <Name>Lenovo ThinkPad</Name>
+     <Price>48000</Price>
+  </Laptop>
+
+  <Laptop> 
+     <ID>3</ID>
+     <Name>Lenovo IdeaPad</Name>
+     <Price>38200</Price>
+  </Laptop>  
+ <Laptop>
+     <ID>4</ID>
+     <Name>Lenovo Yoga 7Gen</Name>
+     <Price>98900</Price>
+  </Laptop> 
+  <Laptop>
+     <ID>5</ID>
+     <Name>Hp Notebook Pc</Name>
+     <Price>40000</Price>
+  </Laptop> 
+  <Laptop>
+     <ID>6</ID>
+     <Name>Apple Mac Book Air</Name>
+     <Price>85000</Price>
+  </Laptop> 
+  <Laptop>
+     <ID>7</ID>
+     <Name>Acer Aspire 7</Name>
+     <Price>52900</Price>
+  </Laptop> 
+<Laptop>
+     <ID>8</ID>
+     <Name>Realme Book Slim</Name>
+     <Price>44000</Price>
+  </Laptop> 
+  <Laptop>
+     <ID>9</ID>
+     <Name>ASUS asus Vivo Book 15</Name>
+     <Price>29800</Price>
+  </Laptop>
+  <Laptop>
+     <ID>10</ID>
+     <Name>HP Chrome Book 11a</Name>
+     <Price>24000</Price>
+  </Laptop>  
+</Electronics>  

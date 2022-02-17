@@ -1,0 +1,14 @@
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\bin\Debug\MyWindowsForms.exe.config
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\bin\Debug\MyWindowsForms.exe
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\bin\Debug\MyWindowsForms.pdb
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\bin\Debug\AnushaLibrary.dll
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\bin\Debug\AnushaLibrary.pdb
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.AssemblyReference.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.Form1.resources
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.Properties.Resources.resources
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.GenerateResource.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CoreCompileInputs.cache
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CopyComplete
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.exe
+F:\c# programs\Day18Morning Assignment\Day18Project1\MyWindowsForms\obj\Debug\MyWindowsForms.pdb

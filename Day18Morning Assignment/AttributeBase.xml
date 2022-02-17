@@ -1,0 +1,12 @@
+<Electronics>
+  <Laptop Id="1" Name="Dell Inspiron 15" Price="86000"/>
+  <Laptop Id="2" Name="Lenovo ThinkPad" Price="48000"/>
+  <Laptop Id="3" Name="Lenovo IdeaPad" Price="38200"/>
+  <Laptop Id="4" Name="Lenovo Yoga 7Gen" Price="98900"/>
+  <Laptop Id="5" Name="Hp Notebook pc" Price="40000"/>
+  <Laptop id="6" Name="Apple Book Air" Price="85000"/>
+  <Laptop id="7" Name="Acer Aspire 7" Price="52900"/> 
+  <Laptop id="8" Name="Realme Book Slim" Price="44000"/> 
+  <Laptop id="9" Name="ASUS asus Vivo Book 15" Price="29800"/>
+  <Laptop id="10" Name="Hp Chrome Book 11a" Price="85000"/>
+  </Electronics>

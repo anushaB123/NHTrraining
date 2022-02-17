@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d8f49d0-0864-46f7-a451-5f5a2f1fa3c2": {
+      "ProjectGuid": "1d8f49d0-0864-46f7-a451-5f5a2f1fa3c2",
+      "DisplayName": "Day18Project1",
+      "ColorIndex": 0
+    },
+    "c5ee4375-a921-4ea7-a7ac-296f9ba54356": {
+      "ProjectGuid": "c5ee4375-a921-4ea7-a7ac-296f9ba54356",
+      "DisplayName": "AnushaLibrary",
+      "ColorIndex": 1
+    },
+    "b78d1c9f-68b4-41df-871b-7492e546159f": {
+      "ProjectGuid": "b78d1c9f-68b4-41df-871b-7492e546159f",
+      "DisplayName": "MyWindowsForms",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76acaecf-caaa-43f8-b3c7-2d92208825de": {
+      "ProjectGuid": "76acaecf-caaa-43f8-b3c7-2d92208825de",
+      "DisplayName": "Day18Project2",
+      "ColorIndex": 0
+    },
+    "e215f43b-46f1-4a40-bf0b-22e95b385f2f": {
+      "ProjectGuid": "e215f43b-46f1-4a40-bf0b-22e95b385f2f",
+      "DisplayName": "AnushaLibrary",
+      "ColorIndex": 1
+    },
+    "832c2521-767f-4fe3-acf3-90c8f972f3a0": {
+      "ProjectGuid": "832c2521-767f-4fe3-acf3-90c8f972f3a0",
+      "DisplayName": "AnushaLibraryTests",
+      "ColorIndex": 2
+    },
+    "a1c1d4a4-07cd-4f90-9cb5-2fdfbe38ebf0": {
+      "ProjectGuid": "a1c1d4a4-07cd-4f90-9cb5-2fdfbe38ebf0",
+      "DisplayName": "AnushaLibraryTests1",
+      "ColorIndex": 3
+    },
+    "1a78c6c8-8f86-45ae-8216-357533a7e578": {
+      "ProjectGuid": "1a78c6c8-8f86-45ae-8216-357533a7e578",
+      "DisplayName": "AnushaLibraryTests2",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

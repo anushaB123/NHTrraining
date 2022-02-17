@@ -1,0 +1,8 @@
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\bin\Debug\Day18Project2.exe.config
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\bin\Debug\Day18Project2.exe
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\bin\Debug\Day18Project2.pdb
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\obj\Debug\Day18Project2.csproj.AssemblyReference.cache
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\obj\Debug\Day18Project2.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\obj\Debug\Day18Project2.csproj.CoreCompileInputs.cache
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\obj\Debug\Day18Project2.exe
+F:\c# programs\Day18Morning Assignment\Day18Project2\Day18Project2\obj\Debug\Day18Project2.pdb
