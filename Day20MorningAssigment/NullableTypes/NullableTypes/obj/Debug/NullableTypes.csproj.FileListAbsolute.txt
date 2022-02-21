@@ -1,0 +1,8 @@
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.AssemblyReference.cache
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe
+F:\c# programs\Day20MorningAssigment\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb

@@ -1,0 +1,7 @@
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe.config
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\bin\Debug\RefAndOutParameters.pdb
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.SuggestedBindingRedirects.cache
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.CoreCompileInputs.cache
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.exe
+F:\c# programs\Day20MorningAssigment\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.pdb
